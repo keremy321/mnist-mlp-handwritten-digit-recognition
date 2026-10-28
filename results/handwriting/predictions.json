@@ -1,0 +1,87 @@
+{
+  "actual": "23120205035",
+  "predicted": "23120205035",
+  "accuracy_percent": 100.0,
+  "checkpoint": "results\\lower_lr\\best_model.pt",
+  "rotation_degrees_ccw": 90,
+  "threshold": 125,
+  "digits": [
+    {
+      "index": 1,
+      "actual": "2",
+      "predicted": 2,
+      "confidence": 0.998684,
+      "correct": true
+    },
+    {
+      "index": 2,
+      "actual": "3",
+      "predicted": 3,
+      "confidence": 0.975443,
+      "correct": true
+    },
+    {
+      "index": 3,
+      "actual": "1",
+      "predicted": 1,
+      "confidence": 0.987247,
+      "correct": true
+    },
+    {
+      "index": 4,
+      "actual": "2",
+      "predicted": 2,
+      "confidence": 0.997017,
+      "correct": true
+    },
+    {
+      "index": 5,
+      "actual": "0",
+      "predicted": 0,
+      "confidence": 0.99881,
+      "correct": true
+    },
+    {
+      "index": 6,
+      "actual": "2",
+      "predicted": 2,
+      "confidence": 0.999644,
+      "correct": true
+    },
+    {
+      "index": 7,
+      "actual": "0",
+      "predicted": 0,
+      "confidence": 0.999937,
+      "correct": true
+    },
+    {
+      "index": 8,
+      "actual": "5",
+      "predicted": 5,
+      "confidence": 0.999275,
+      "correct": true
+    },
+    {
+      "index": 9,
+      "actual": "0",
+      "predicted": 0,
+      "confidence": 0.998618,
+      "correct": true
+    },
+    {
+      "index": 10,
+      "actual": "3",
+      "predicted": 3,
+      "confidence": 0.999862,
+      "correct": true
+    },
+    {
+      "index": 11,
+      "actual": "5",
+      "predicted": 5,
+      "confidence": 0.990893,
+      "correct": true
+    }
+  ]
+}

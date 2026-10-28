@@ -1,0 +1,24 @@
+{
+  "hyperparameters": {
+    "hidden1": 256,
+    "hidden2": 128,
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "epochs": 15,
+    "seed": 42,
+    "optimizer": "Adam",
+    "loss": "CrossEntropyLoss",
+    "activation": "ReLU",
+    "normalization": "(x - 0.1307) / 0.3081"
+  },
+  "data_split": {
+    "train": 50000,
+    "validation": 10000,
+    "test": 10000
+  },
+  "best_epoch": 5,
+  "best_validation_loss": 0.09634373135734349,
+  "test_loss": 0.0742758651933167,
+  "test_accuracy_percent": 97.76,
+  "training_time_seconds": 83.59869549999894
+}

@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pillow
+scikit-learn
+opencv-python
+# Install torch and torchvision separately using the official PyTorch CUDA/CPU instructions.
